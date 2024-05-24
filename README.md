@@ -1,2 +1,2 @@
 # didactic-funicular
-HTTP Server implementation in Python for practice
+Client-server practice in Python
